@@ -1,4 +1,4 @@
-# PlayPauseDrawable
+#**PlayPauseDrawable**
 
 
 This is a sample Play & Pause Drawable with morphing animation for Android
@@ -10,6 +10,12 @@ This is a sample Play & Pause Drawable with morphing animation for Android
 
 
 [![](https://github.com/tarek360/PlayPauseDrawable/raw/master/ezgif.com-gif-maker.gif)](https://www.youtube.com/watch?v=UFdV7qysyZQ)
+
+#Features:
+- Every thing is a code
+- No bitmap
+- No .gif
+- No images
 
 #Thanks to:
 - Farouk

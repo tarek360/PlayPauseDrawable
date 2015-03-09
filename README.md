@@ -1,5 +1,6 @@
 #**PlayPauseDrawable**
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PlayPauseDrawable-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/1631)
 
 This is a sample Play & Pause Drawable with morphing animation for Android
 

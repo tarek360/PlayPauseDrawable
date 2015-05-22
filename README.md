@@ -1,7 +1,7 @@
 #**PlayPauseDrawable**
 
 #**Deprecated**
-please got to
+please go to
 https://github.com/tarek360/Material-Animation-Samples
 
 
